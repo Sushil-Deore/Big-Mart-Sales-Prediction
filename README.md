@@ -6,4 +6,5 @@ The aim is to build a predictive model and predict the sales of each product at 
 
 Using this model, BigMart will try to understand the properties of products and outlets which play a key role in increasing sales.
 
-Please note that the data may have missing values as some stores might not report all the data due to technical glitches. Hence, it will be required to treat them accordingly. 
+Please note that the data may have missing values as some stores might not report all the data due to technical glitches. 
+Hence, it will be required to treat them accordingly. 
